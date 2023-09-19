@@ -17,5 +17,10 @@ body {
 
 .jumbotron {
     background-color: aquamarine;
+    background-position: center;
+    width: 50%;
+    height: 140%;
+    border-radius: 50%;
    font-size: 72px;
+    text-align: center;
 }
