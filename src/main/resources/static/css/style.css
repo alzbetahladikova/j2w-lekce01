@@ -16,5 +16,6 @@ body {
 }
 
 .jumbotron {
-    font-size: 72px;
+    background-color: aquamarine;
+   font-size: 72px;
 }
